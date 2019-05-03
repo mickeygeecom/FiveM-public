@@ -1,6 +1,6 @@
 
 ## vrp_msgplayer by gEE
-### Makes you able as admin to message a player by ID
+### Makes you able as admin to message a player by vRP player ID
 
 
 **Dependencies:**
