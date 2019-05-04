@@ -13,4 +13,4 @@ Other than that just upload the resource, and add it to your `server.cfg`
 
 ## How to use
 
-In chat type: /msg <id> <message>
+In chat type: `/msg <id> <message>`
