@@ -17,3 +17,6 @@ In chat type: `/msg <id> <message>`
 
 ## Screenshot
 ![Screenshot](https://i.imgur.com/QFHUNPR.jpg)
+
+## Future plans
+Making an actual messaging system, where the user can reply.
