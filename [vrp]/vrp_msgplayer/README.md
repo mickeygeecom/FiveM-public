@@ -16,7 +16,7 @@ Other than that just upload the resource, and add `start vrp_msgplayer` to your 
 In chat type: `/msg <id> <message>`
 
 ## Screenshot
-![Screenshot](https://i.imgur.com/QFHUNPR.jpg)
+![Screenshot](https://i.imgur.com/C43xIgI.jpg)
 
 ## Future plans
-Making an actual messaging system, where the user can reply.
+Making an messaging system, where the user can actually reply.
