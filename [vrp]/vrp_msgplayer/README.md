@@ -7,12 +7,11 @@
 - vRP (obviously) up to version 1.0 and prior
 - pNotify
 
+**Setting up**
 Make sure to edit the required permission to fit your needs in `vrp/cfg/groups.lua` in line 5
-
 Other than that just upload the resource, and add `start vrp_msgplayer` to your `server.cfg`
 
 ## How to use
-
 In chat type: `/msg <id> <message>`
 
 ## Screenshot
