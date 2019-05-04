@@ -10,7 +10,7 @@ local Tunnel = module("vrp", "lib/Tunnel")
 vRP = Proxy.getInterface("vRP")
 
 RegisterCommand("msg", function(source, args, ...)
-    local s = s
+    local s = source
     local target_id = tonumber(args[1])
 
     if vRP.getUsers({target_id}) then
