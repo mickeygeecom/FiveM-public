@@ -4,7 +4,7 @@
 
 
 **Dependencies:**
-- vRP (obviously)
+- vRP (obviously) up to version 1.0 and prior
 - pNotify
 
 Make sure to edit the required permission to fit your needs in `vrp/cfg/groups.lua` in line 5
