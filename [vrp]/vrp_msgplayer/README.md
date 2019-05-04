@@ -14,3 +14,6 @@ Other than that just upload the resource, and add `start vrp_msgplayer` to your 
 ## How to use
 
 In chat type: `/msg <id> <message>`
+
+## Screenshot
+![Screenshot](https://i.imgur.com/QFHUNPR.jpg)
