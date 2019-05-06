@@ -13,12 +13,12 @@ RegisterCommand("msg", function(source, args, ...)
     local s = source
     local target_id = tonumber(args[1])
 
-    if vRP.getUsers({target_id}) then
+    if vRP.getUserSource({target_id}) then
 
       local user_id = vRP.getUserId({s})
           if vRP.hasPermission({user_id, reqPermission}) then
               if args[2] and tonumber(target_id) then
-                      local target = vRP.getUsers({target_id})
+                      local target = vRP.getUserSource({target_id})
                       local b = ...
                       b = b:gsub("msg "..target_id,"")
                       TriggerClientEvent("pNotify:SendNotification", target ,{text = ({"<center><h1 style='font-family:Segoe UI;'>ADMIN BESKED:<h2 style='font-family:Segoe UI;'>"..b.."<br/>// "..GetPlayerName(s)}), theme = "mint", type = "error", queue = "error", timeout = 20000, layout = "topCenter",animation = {open = "gta_effects_fade_in", close = "gta_effects_fade_out"}})
