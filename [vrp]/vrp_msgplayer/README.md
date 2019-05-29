@@ -18,4 +18,4 @@ In chat type: `/msg <id> <message>`
 ![Screenshot](https://i.imgur.com/C43xIgI.jpg)
 
 ## Future plans
-Making an messaging system, where the user can actually reply.
+Make a messaging system, where the user can actually reply.
